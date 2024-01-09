@@ -4,7 +4,7 @@
 * Im learning frontend at Founders and Coders.  I have completed a few bootcamps through encode club and have some experience with JS, HTML, CSS and Solidity.  Ive also started learning some Python.
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3o7TKnvDNYADdLYZIQ/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/3o7TKnvDNYADdLYZIQ/giphy.gif" width="400"/>
 </div>
 
 ## Interests
