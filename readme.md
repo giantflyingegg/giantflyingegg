@@ -13,7 +13,17 @@
 * Come and say hi! Im always happy to talk about technology, particularly when it related to web3 and AI.  If you fancy popping down the rabbit hole, ask me about AGI or aliens!
 
 ## Hobbies and pasttimes
-:running_man:   :weight_lifting_man:   :swimmer:   :lotus_position_man:   :potted_plant:   :milky_way:   :dog:   :cat:   :man_health_worker:   :cook:   :boxing_glove:
+-  :running_man:
+-  :weight_lifting_man:   -
+-  :swimmer:   -
+-  :lotus_position_man:
+-  :potted_plant:
+-  :milky_way:
+-  :dog:
+-  :cat:
+-  :man_health_worker:
+-  :cook:
+-  :boxing_glove:
  
  ### Contact me:
  - You can contact me on [twitter](https://www.twitter.com/thepowerof23)
