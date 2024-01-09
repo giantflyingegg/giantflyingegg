@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/3o7TKnvDNYADdLYZIQ/giphy.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 
@@ -12,3 +12,7 @@
 * I have spent a lot of time in the web3 universe and have worked for and with a couple of DAOs in the space.  Im interested in web3 in all its forms: crypto, defi, DAOs, generative art and metaverse/decentralised gaming.  I also enjoy retro game emulation and have recently got my Odin2 running.
 * For 2024 I want to work on my developer skills in the above languages and build a drone.  I have a few ideas for swarming drones using Ardupilot that I would like to try when I dont suck
 * Come and say hi! Im always happy to talk about technology, particularly when it related to web3 and AI.  If you fancy popping down the rabbit hole, ask me about AGI or aliens!
+ ### Contact me:
+ - You can contact me on [twitter](https://www.twitter.com/thepowerof23)
+ - Or via my [personal website](http://giantflyingegg.com)
+   
