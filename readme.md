@@ -30,4 +30,6 @@
  ### Contact me:
  - You can contact me on [twitter](https://www.twitter.com/thepowerof23)
  - Or via my [personal website](http://giantflyingegg.com)
+
+ - <span style="color:blue">some *blue* text</span>.
    
