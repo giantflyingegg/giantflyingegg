@@ -1,7 +1,7 @@
 # Kieran Sweetman
 
 ## About me:
-* Im currently about a year into my coding journery.  I have completed a full stack bootcamp with Founders and Coders and few bootcamps through encode club and developed experience with the OpenAI API, JS, node, HTML, CSS and Solidity.  Since completing the bootcamp I have finshied the CodeAcadamy Python course and have started building using AI models from hugging face, as well as tools such as Ollama, CrewAI, Llamafile and Langchain.  I next would like to learn about training and fine-tuning AI/ML models
+* Im currently about a year into my coding journey.  I have completed a full stack bootcamp with Founders and Coders and few bootcamps through encode club and developed experience with the OpenAI API, JS, node, HTML, CSS and Solidity.  Since completing the bootcamp I have finshied the CodeAcadamy Python course and have started building using AI models from hugging face, as well as tools such as Ollama, CrewAI, Llamafile and Langchain.  I next would like to learn about training and fine-tuning AI/ML models
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3o7TKnvDNYADdLYZIQ/giphy.gif" width="400"/>
