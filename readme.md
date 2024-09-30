@@ -3,7 +3,7 @@
 ## About me:
 * I was an NHS doctor for about 10 years, the majority of it spent in an East London teaching hospital. I have a Global health MSc and am interested in the health and healthcare of the developing world
 
-* Im currently about a year into my coding journey.  I have completed a full stack bootcamp with Founders and Coders and few bootcamps through Encode Club and developed experience with the OpenAI API, JS, node, HTML, CSS and Solidity.  Since completing the bootcamp I have finshed the CodeAcadamy Python course and an Encode club AI bootcamp.  I now want to improve my skills in these areas.
+* Im currently about 18 months into my coding journey.  I have completed a full stack bootcamp with Founders and Coders and few bootcamps through Encode Club and developed experience with the OpenAI API, JS, node, HTML, CSS and Solidity.  Since completing the bootcamp I have finished the CodeAcadamy Python course and an Encode Club AI course and have started building using AI models from hugging face, as well as tools such as Ollama, CrewAI, Llamafile and Langchain.  I next would like to learn more about training and fine-tuning AI/ML models
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3o7TKnvDNYADdLYZIQ/giphy.gif" width="400"/>
