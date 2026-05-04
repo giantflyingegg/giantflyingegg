@@ -3,7 +3,7 @@
 ## About me:
 * I was an NHS doctor for about 10 years, the majority of it spent in an East London teaching hospital. I have a Global health MSc and am interested in the health and healthcare of the developing world
 
-* Im currently completing an MSc in Data scince and AI at Quenn Mary University of London, and have experience developing and testing ML and data science models.  Prior to this, I completed a full stack bootcamp with Founders and Coders and developed experience with the OpenAI API, JS, node, HTML, CSS and Solidity as well as finishing an Encode Club AI bootcamp.  I have developed experience with front end frameworks and libraries such as React, Bootstrap, NextJS, and TailwindCSS. I have subsequently completed the Encode Club EVM bootcamp and am interested in the nexus of AI and blockchain. Im currently building Android mobile apps with Kotlin.  
+* Im currently completing an MSc in Data science and AI at Queen Mary University of London, and have experience developing and testing ML and data science models.  Prior to this, I completed a full stack bootcamp with Founders and Coders and developed experience with the OpenAI API, JS, node, HTML, CSS and Solidity as well as finishing an Encode Club AI bootcamp.  I have developed experience with front end frameworks and libraries such as React, Bootstrap, NextJS, and TailwindCSS. I have subsequently completed the Encode Club EVM bootcamp and am interested in the nexus of AI and blockchain. Im currently building Android mobile apps with Kotlin.  
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3o7TKnvDNYADdLYZIQ/giphy.gif" width="400"/>
