@@ -5,6 +5,10 @@
 
 * Im currently completing an MSc in Data science and AI at Queen Mary University of London, and have experience developing and testing ML and data science models.  Prior to this, I completed a full stack bootcamp with Founders and Coders and developed experience with the OpenAI API, JS, node, HTML, CSS and Solidity as well as finishing an Encode Club AI bootcamp.  I have developed experience with front end frameworks and libraries such as React, Bootstrap, NextJS, and TailwindCSS. I have subsequently completed the Encode Club EVM bootcamp and am interested in the nexus of AI and blockchain. Im currently building Android mobile apps with Kotlin.  
 
+Video demos of my current project:
+
+https://www.youtube.com/@kieransweetman9096
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3o7TKnvDNYADdLYZIQ/giphy.gif" width="400"/>
 </div>
